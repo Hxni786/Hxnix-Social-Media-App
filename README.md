@@ -8,10 +8,10 @@ React Native (Expo SDK 54) + Node.js + Express + MySQL.
 
 | 1. Scan / Click to Download | 2. Installation Guide |
 | :-------: | :-------: |
-| ![Download QR Code](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://expo.dev/artifacts/eas/iWXWVNG9ZvfjQ6QPMAeZoR.apk) | ![Hxnix Installation Guide](./assets/installation_guide.png) |
+| <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://expo.dev/artifacts/eas/iWXWVNG9ZvfjQ6QPMAeZoR.apk" width="180" /> | <img src="./assets/installation_guide.png" width="450" /> |
 | [**DIRECT_DOWNLOAD_LINK**](https://expo.dev/artifacts/eas/iWXWVNG9ZvfjQ6QPMAeZoR.apk) | *Enable "Unknown Sources" in settings* |
 
-![Hxnix Download Badge](./assets/download_badge.png)
+<img src="./assets/download_badge.png" width="800" />
 
 > [!TIP]
 > **PRO-TIP:** For the fastest installation, scan the QR code above with your mobile phone's camera. This version is **standalone** and does not require a local backend server to be running.
