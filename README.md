@@ -8,10 +8,10 @@ React Native (Expo SDK 54) + Node.js + Express + MySQL.
 
 | 1. Scan / Click to Download | 2. Installation Guide |
 | :-------: | :-------: |
-| ![Download QR Code](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://expo.dev/artifacts/eas/iWXWVNG9ZvfjQ6QPMAeZoR.apk) | ![Hxnix Installation Guide](file:///C:/Users/Dell/.gemini/antigravity/brain/9421ce69-26a2-42d7-95b3-b66627591b2b/hxnix_installation_guide_png_1776417695296.png) |
+| ![Download QR Code](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://expo.dev/artifacts/eas/iWXWVNG9ZvfjQ6QPMAeZoR.apk) | ![Hxnix Installation Guide](./assets/installation_guide.png) |
 | [**DIRECT_DOWNLOAD_LINK**](https://expo.dev/artifacts/eas/iWXWVNG9ZvfjQ6QPMAeZoR.apk) | *Enable "Unknown Sources" in settings* |
 
-![Hxnix Download Badge](file:///C:/Users/Dell/.gemini/antigravity/brain/9421ce69-26a2-42d7-95b3-b66627591b2b/hxnix_download_badge_png_1776417395612.png)
+![Hxnix Download Badge](./assets/download_badge.png)
 
 > [!TIP]
 > **PRO-TIP:** For the fastest installation, scan the QR code above with your mobile phone's camera. This version is **standalone** and does not require a local backend server to be running.
